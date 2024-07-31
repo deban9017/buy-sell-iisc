@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814669559955",
+    "project_id": "buy-and-sell-iisc",
+    "storage_bucket": "buy-and-sell-iisc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814669559955:android:230803545356f0e40b7566",
+        "android_client_info": {
+          "package_name": "com.example.buyandsell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPU-tuz3rP_qSUQX1N7z5N7E8x0A1j2no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
