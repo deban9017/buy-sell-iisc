@@ -44,3 +44,7 @@ app.*.map.json
 
 # firebase api related
 firebase_options.dart
+firebase.json
+google-services.json
+GoogleService-Info.plist
+firebase-config.js
