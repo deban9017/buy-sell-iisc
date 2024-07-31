@@ -68,4 +68,14 @@ Note: editable fields in item listing: description, sp, state, negotiability,
     location, item_count, other_price, other_store, store_link, category.
 
 
+For Firebase safty, firebase_options.dart
+firebase.json
+google-services.json
+GoogleService-Info.plist
+firebase-config.js
+
+
+these files removed
+
+
 
