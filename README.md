@@ -63,18 +63,26 @@ This project is a starting point for a Flutter application.
 
 
 Note: For pictures, under each uid, the images will be uploaded to a folder of name of the doc id of the item, then image1 to image4.
+
 Note: editable fields in profile: name, whatsapp
+
 Note: editable fields in item listing: description, sp, state, negotiability,
     location, item_count, other_price, other_store, store_link, category.
 
 
-For Firebase safty, firebase_options.dart
+For Firebase safty,
+
+firebase_options.dart
+
 firebase.json
+
 google-services.json
+
 GoogleService-Info.plist
+
 firebase-config.js
 
-these files removed
+-these files removed
 
 
 
