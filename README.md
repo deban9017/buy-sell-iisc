@@ -2,10 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
+If you want to maintain the codebase, please DM me on Linkedin.
+My linkedin: https://www.linkedin.com/in/debanjan-saha-a7280927b/
 
 
 ## TODOs:
